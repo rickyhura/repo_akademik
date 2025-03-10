@@ -9,6 +9,9 @@
     <hr>
     <h6>NIM : 23110002</h6>
     <h6>NAMA : BRILIAN RICKY HURA</h6>
+    <h6>Wakil Ketua</h6>
+    <h6>23110007</h6>
+    <h6>Valirius Nazara</h6>
     <a href="index.php">Kembali</a>
     
 </body>
